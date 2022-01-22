@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="banner-background-area banner-background-area-bg bg-img section-space--ptb_120 bg-cover" :style="bgImg">
         <div class="container">
             <div class="row">
@@ -34,4 +34,4 @@
             }
         }
     };
-</script>
+</script> -->

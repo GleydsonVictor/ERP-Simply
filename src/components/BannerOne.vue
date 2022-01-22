@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="banner-image-area position-relative">
         <div class="container_fl">
             <div class="row align-items-center">
@@ -32,4 +32,4 @@
     export default{
         name: 'BannerOne',
     };
-</script>
+</script> -->

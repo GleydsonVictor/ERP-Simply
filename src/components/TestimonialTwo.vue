@@ -1,7 +1,10 @@
 <template>
     <div class="row">
         <div class="col-lg-12">
-            <div class="testimonial-slider">
+                <!-- <router-link :to="{ path: 'branding' }" class="hover-style-link hover-style-link--green">
+                                Learn More
+                </router-link> -->
+            <!-- <div class="testimonial-slider">
                 <div class="swiper-container testimonial-slider__container">
                     <div class="swiper-wrapper testimonial-slider__wrapper">
                         <swiper :options="swiperOption">
@@ -45,7 +48,7 @@
                     </div>
                 </div>
                 <div class="swiper-pagination swiper-pagination-1 section-space--mt_60"></div>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>

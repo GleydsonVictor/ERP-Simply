@@ -11,6 +11,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
+						<!-- <div id="particles-js"></div> -->
                         <Gradation />
                     </div>
                 </div>
@@ -21,53 +22,53 @@
 		<FaqBanner />
 
 		<!-- banner one component -->
-		<CurveShape class="curve-bottom">
+		<!-- <CurveShape class="curve-bottom">
             <template v-slot:bgcolor>
-                <path style="fill: #f6f5f9;
+                <path style="fill: #fff;
                     stroke-miterlimit:10;" 
                     d="M3360.5,97.739c-242,0-480-48.375-480-48.375
                         S2647.5,0.5,2400.5,0.5s-480,48.375-480,48.375s-238,48.864-480,48.864s-480-48.375-480-48.375S727.5,0.5,480.5,0.5
                         S0.5,48.875,0.5,48.875V108h1920h1920V48.875C3840.5,48.875,3602.5,97.739,3360.5,97.739z"/>
             </template>
-        </CurveShape>
+        </CurveShape> -->
 		<BannerOne class="banner-one-sass" />
 
 		<!-- sass feature component -->
 		<SassFeature class="gray-gradient" id="service"/>
 
 		<!-- call to action component -->
-		<CurveShape class="curve-bottom">
+		<!-- <CurveShape class="curve-bottom">
             <template v-slot:bgcolor>
-                <path style="fill: #f6f5f9;
+                <path style="fill: #fff;
                     stroke-miterlimit:10;" 
                     d="M3360.5,97.739c-242,0-480-48.375-480-48.375
                         S2647.5,0.5,2400.5,0.5s-480,48.375-480,48.375s-238,48.864-480,48.864s-480-48.375-480-48.375S727.5,0.5,480.5,0.5
                         S0.5,48.875,0.5,48.875V108h1920h1920V48.875C3840.5,48.875,3602.5,97.739,3360.5,97.739z"/>
             </template>
-        </CurveShape>
+        </CurveShape> -->
         <CtaOne />
 
 		<!-- fun facts section -->
-		<div class="fun-fact-wrapper section-space--pb_120">
+		 <!-- <div class="fun-fact-wrapper section-space--pb_120">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title text-center section-space--mb_60">
-                            <h2 class="font-weight--light mb-15 move-up">No stories, facts only</h2>
-                            <span class="section-text wow move-up">Better software promotes overall sales & net profits</span>
+                            <h2 class="font-weight--light mb-15 move-up">Gostou da nossa apresentação?</h2>
+                            <span class="section-text wow move-up">Dê uma chance pra nos te mostrar na pratica o que podemos fazer.</span>
                         </div>
                     </div>
                 </div>
-				<!-- fun fact component -->
 				<FunFactOne />
             </div>
-		</div>
+		</div> -->
 
 		<!-- testimonial section -->
 		<div class="testimonial-slider-area section-space--ptb_120 bg-gray" id="testimonial">
             <div class="container">
 				<div class="section-title text-center section-space--mb_60">
-					<h2 class="section-title font-weight--light wow move-up">Don’t take our word for it</h2>
+					<h2 class="section-title font-weight--light wow move-up">Gostou da nossa apresentação?</h2>
+					<h3 class="section-title font-wight--light2 wow move-up">Dê uma chance pra nos te mostrar na pratica o que podemos fazer.</h3>
 				</div>
                 <TestimonialTwo />  
             </div>
@@ -99,6 +100,8 @@
 	import BrandLogoCarousel from "../components/BrandLogoCarousel";
 	import BannerBgOne from "../components/BannerBgOne";
 	import FooterMain from "../components/FooterMain";
+	// import {App} from "app";
+	// import {Particula} from "particles";
 
 	export default {
 		name: "app",
@@ -115,7 +118,7 @@
 			TestimonialTwo,
 			BrandLogoCarousel,
 			BannerBgOne,
-			FooterMain
+			FooterMain,
 		},
 
 		metaInfo: {
@@ -127,3 +130,11 @@
         }
 	};
 </script>
+
+
+<style lang="scss">
+#particles-js {
+    height: 100%;
+    background: #000000;
+}
+</style>

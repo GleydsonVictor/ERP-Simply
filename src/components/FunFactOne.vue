@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="row mtn-30">
         <div class="col-lg-3 col-md-6 col-sm-6 wow move-up">
             <div class="fun-fact--one mt-30 text-center">
@@ -60,4 +60,4 @@
             };
         }
     };
-</script>
+</script> -->

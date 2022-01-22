@@ -68,11 +68,11 @@
         background-image: linear-gradient(-224deg,#fad961 0,#f76b1c 100%);
 
         &--blue{
-            background-color: #9C7AF2;
+            background-color: #ff0000;
             background-image: linear-gradient(-224deg,#9C7AF2 0,#5E61E7 100%);
         }
         &--bg-blue{
-            background: #5945e6;
+            background: #ff0000;
         }
         &--bg-green{
             background: #38cb89;
@@ -126,12 +126,12 @@
     }
 
     &--blue{
-        background-color: #9C7AF2;
+        background-color: #ff0000;
         background-image: linear-gradient(-224deg,#9C7AF2 0,#5E61E7 100%);
     }
 
     &--bg-blue{
-        background: #5945e6;
+        background: #ff0000;
         box-shadow: 0 2px 17px rgba(89,69,230,0.27);
     }
     &--bg-green {

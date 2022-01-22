@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="cta-image-area_one section-space--ptb_120">
         <div class="container">
             <div class="row">
@@ -31,4 +31,4 @@
     export default {
         name: 'CtaOne',
     }
-</script>
+</script> -->

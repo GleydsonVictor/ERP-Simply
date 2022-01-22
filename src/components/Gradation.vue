@@ -14,11 +14,11 @@
             </div>
             <div class="icon-process-single__content-wrap">
                 <div class="icon-process-single__media">
-                    <i class="fa fa-fire"></i>
+                    <i class="fas fa-suitcase"></i>
                 </div>
-                <h5 class="icon-process-single__title">Define your ideas</h5>
+                <h5 class="icon-process-single__title">Pequenas Empresas</h5>
                 <div class="icon-process-single__text">
-                    Share ideas of how you would like your app to perform to achieve goals.
+                    Você <b>MEI</b>, <b>ME</b>, <b>EPP</b> e <b>PME</b> está cansado de achar ERP cheios de funções que são desnecessárias e com valores absurdos.
                 </div>
             </div>
         </div>
@@ -36,11 +36,11 @@
             </div>
             <div class="icon-process-single__content-wrap">
                 <div class="icon-process-single__media">
-                    <i class="fa fa-users"></i>
+                    <i class="fas fa-chalkboard-teacher"></i>
                 </div>
-                <h5 class="icon-process-single__title">Work on designs</h5>
+                <h5 class="icon-process-single__title">Ferramentas De Administração</h5>
                 <div class="icon-process-single__text">
-                    After getting your brief, our experts work on crafting the final designs.
+                    Administre tua empresa com apenas uma ferramenta completa com todos os setores.
                 </div>
             </div>
         </div>
@@ -58,11 +58,11 @@
             </div>
             <div class="icon-process-single__content-wrap">
                 <div class="icon-process-single__media">
-                    <i class="fa fa-chart-line"></i>
+                    <i class="fas fa-medal"></i>
                 </div>
-                <h5 class="icon-process-single__title">Coding and Review</h5>
+                <h5 class="icon-process-single__title">Seja Um Campeão</h5>
                 <div class="icon-process-single__text">
-                    The final product is obtained from meticulous coding and review.
+                    Torne sua empresa a líder no segmento e domine o mercado!
                 </div>
             </div>
         </div>

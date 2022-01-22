@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="brand-logo-slider-area section-space--pb_60 section-space--pt_60">
         <div class="container">
             <div class="row brand-logo-wrapper">
@@ -104,4 +104,4 @@
             }
         }
     }
-</script>
+</script> -->

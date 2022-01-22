@@ -22,7 +22,7 @@
             }
             & .content {
                 & .heading{
-                    color: #6d70a6;
+                    color: #000000;
                     margin-bottom: 15px;
                 }
                 & .service_text{
@@ -72,8 +72,8 @@
                 }
 
                 &.macos{
-                    color: #524ce8;
-                    border-color: #524ce8;
+                    color: #ff0000;
+                    border-color: #ff0000;
                     background-color: #f5f4fe;
                 }
 
@@ -136,6 +136,8 @@
 }
 
 /* ============== */
+
+// box o que podemos fazer
 
 .service-grid {
     & .ht-service-box {
@@ -218,16 +220,18 @@
             }
         }
         &--four {}
+
+        // O que podemos fazer
         
     }
     margin-bottom: 25px;
     & .sub-heading {
-        color: #6d70a6;
+        color: #ff0000;
         margin-bottom: 10px;
         font-size: 15px;
     }
     & .heading{
-        color: #6d70a6;
+        color: #ff0000;
         margin-bottom: 15px;
     }
     & .service_text{
@@ -305,7 +309,7 @@
             transition: $transition--default;
         }
         & .heading {
-            color: #6d70a6;
+            color: #a66d6d;
         }
     }
     & .content-body {

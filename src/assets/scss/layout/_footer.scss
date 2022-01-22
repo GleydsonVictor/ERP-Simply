@@ -103,13 +103,13 @@
     display: inline-block;
 
     @media #{$large-mobile} {
-        margin-bottom: 15px;
+        margin-bottom: 5px;
     }
 }
 
 .bg_drak-footer {
     background: #242659;
-    border-top: 3px solid #5556ca;
+    border-top: 3px solid #000000;
 
     & .footer-widget {
         &__title {
@@ -220,7 +220,7 @@
     & .ht-social-networks.tilte-style {
         .link-text {
             &::before {
-                background: rgba(89, 69, 230, 0.2);
+                background: rgba(255, 0, 0, 0.2);
             }
 
             &:hover {
@@ -276,7 +276,7 @@
 }
 
 .tweet__text a:hover {
-    color: #5945e6;
+    color: #ff0000;
 }
 
 .tweet__text:after {
